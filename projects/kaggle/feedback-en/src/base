@@ -1,0 +1,14 @@
+--pooling=latt
+--rdrop_rate=0
+--max_len=1280
+--last_tokens=32
+--scheduler=linear 
+--lr=2e-5
+--listwise
+--grad_acc=0
+--bs=4
+--seq_encoder=0
+--multi_lr=0
+--max_position_embeddings
+--adv_start_epoch=1
+--ep=3
